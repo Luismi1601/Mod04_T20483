@@ -1,0 +1,7 @@
+C:\Curso\20483\Luismi\Tareas\Mod04_T20483\Democode\ValuesAndReferences\bin\Debug\ValuesAndReferences.exe.config
+C:\Curso\20483\Luismi\Tareas\Mod04_T20483\Democode\ValuesAndReferences\bin\Debug\ValuesAndReferences.exe
+C:\Curso\20483\Luismi\Tareas\Mod04_T20483\Democode\ValuesAndReferences\bin\Debug\ValuesAndReferences.pdb
+C:\Curso\20483\Luismi\Tareas\Mod04_T20483\Democode\ValuesAndReferences\obj\Debug\ValuesAndReferences.csprojAssemblyReference.cache
+C:\Curso\20483\Luismi\Tareas\Mod04_T20483\Democode\ValuesAndReferences\obj\Debug\ValuesAndReferences.csproj.CoreCompileInputs.cache
+C:\Curso\20483\Luismi\Tareas\Mod04_T20483\Democode\ValuesAndReferences\obj\Debug\ValuesAndReferences.exe
+C:\Curso\20483\Luismi\Tareas\Mod04_T20483\Democode\ValuesAndReferences\obj\Debug\ValuesAndReferences.pdb
